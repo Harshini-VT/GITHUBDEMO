@@ -1,0 +1,2 @@
+this is the content inside text3 file
+"You are doing great!"
